@@ -1,0 +1,351 @@
+State,Market,Low_Rent_USD,High_Rent_USD,Notes
+Alabama,Statewide Average,1220,2300,Mixed rural-urban environments lead to zoning delays but lower co-location resistance
+Alabama,Birmingham,1690,3080,Metro sprawl and redevelopment attract 5G builds in transitional zones
+Alabama,Montgomery,1510,2800,Government proximity boosts rooftop lease value for signal security
+Alabama,Mobile,1600,2930,Coastal storms raise structural requirements and cost burdens
+Alabama,Huntsville,1730,3150,Aerospace and tech sector data demand increases fiber corridor interest
+Alabama,Tuscaloosa,1470,2700,Student housing density drives demand for microcells and rooftop leases
+Alabama,Rural Alabama,610,1110,Long lease durations typical due to slow rural turnover
+Alaska,Statewide Average,1040,2050,Harsh environments and isolated towns make each lease a high-value investment
+Alaska,Anchorage,1580,3000,Major urban hub demands consistent coverage year-round
+Alaska,Fairbanks,1450,2760,Cold-weather tech and logistics zones increase fiber-heavy installations
+Alaska,Juneau,1390,2620,Steep terrain and zoning complexity drive premium for placement ease
+Alaska,Wasilla,1300,2470,Proximity to Anchorage allows for competitive rates due to spillover
+Alaska,Sitka,1270,2430,"Island access raises setup costs, increasing long-term lease value"
+Alaska,Rural Alaska,570,1050,Barging equipment and limited grid access spike carrier costs
+Arizona,Statewide Average,1710,3160,Heat and elevation diversity create varying site valuation across the state
+Arizona,Phoenix,2280,4200,Rapid city growth and zoning turnover boost lease value on new builds
+Arizona,Tucson,1920,3490,Desert heat and wildlife overlays impact equipment choices and pricing
+Arizona,Mesa,1960,3560,Expanding suburban zones invite new towers and updated co-location terms
+Arizona,Chandler,1940,3500,Tech corridor and grid access attract high-paying anchor tenants
+Arizona,Scottsdale,2110,3780,Rooftop leases in aesthetic zones push demand for hidden installs
+Arizona,Rural Arizona,690,1270,Dry terrain and isolation increase cost per tenant
+Arkansas,Statewide Average,1240,2310,Mixed terrain and limited fiber coverage impact expansion rates
+Arkansas,Little Rock,1690,3070,Rooftop scarcity in city center increases demand for ground leases
+Arkansas,Fort Smith,1510,2770,Industrial corridor sites offer better lease premiums for logistics support
+Arkansas,Fayetteville,1540,2810,University growth drives demand for dense small cell deployment
+Arkansas,Springdale,1460,2620,Mid-sized growth markets offer longer leases to encourage carrier investment
+Arkansas,Jonesboro,1430,2580,Open commercial plots ideal for multi-carrier tower hubs
+Arkansas,Rural Arkansas,610,1100,Easement access and easement prep increase upfront tenant costs
+California,Statewide Average,2060,3980,"Stringent permitting, high land values, and environmental laws increase negotiation leverage"
+California,Los Angeles,2700,5010,High-density zoning drives rooftop lease premiums
+California,San Diego,2440,4540,Coastal constraints raise demand for municipal building partnerships
+California,San Jose,2640,4790,Tech hubs and bandwidth demands fuel high-value lease proposals
+California,San Francisco,2780,5120,Regulatory layers and heritage buildings limit new tower access
+California,Fresno,2150,4020,Expanding suburbs raise lease value in farmland-adjacent zones
+California,Rural California,880,1640,Fire risk and permitting requirements affect viability
+Colorado,Statewide Average,1670,3100,Terrain and elevation heavily influence engineering and cost structure
+Colorado,Denver,2350,4380,Downtown rooftops in LoDo and RiNo demand top-tier rents
+Colorado,Colorado Springs,2070,3750,Military airspace and elevation require additional engineering approvals
+Colorado,Aurora,2080,3760,Burgeoning suburbs push high demand for mid-height tower leases
+Colorado,Fort Collins,1880,3400,Tech growth and university presence drive bandwidth demand
+Colorado,Lakewood,1960,3520,Residential pockets and open corridors fuel steady expansion
+Colorado,Rural Colorado,740,1330,Mountain access and harsh winters require hardened tower design
+Connecticut,Statewide Average,1650,3090,Zoning restrictions and affluent communities influence stealth install value
+Connecticut,Bridgeport,1920,3580,Dense residential layouts boost rooftop placement over ground leases
+Connecticut,Stamford,1960,3650,Proximity to NYC drives up regional co-location demand
+Connecticut,New Haven,1840,3420,Historic zones restrict tower visibility and boost hidden install demand
+Connecticut,Hartford,1830,3390,Government districts support long-term leases for data reliability
+Connecticut,Waterbury,1710,3180,Industrial repurposing opens urban sites for multi-carrier use
+Connecticut,Rural Connecticut,670,1240,Tree canopy density impacts line-of-sight placement
+Delaware,Statewide Average,1590,2980,Small geographic footprint means less competition for optimal sites
+Delaware,Wilmington,1980,3620,Corporate hub and port access increase signal reliability demand
+Delaware,Dover,1760,3200,"Air Force base influence limits certain tower placements, raising value on available zones"
+Delaware,Newark,1720,3140,University area microcells boost demand for fast install sites
+Delaware,Middletown,1700,3100,Bedroom community expansion opens new tower development corridors
+Delaware,Smyrna,1680,3060,Secondary logistics hubs create pressure for new coverage builds
+Delaware,Rural Delaware,640,1180,"Zoning leniency attracts ground tower interest, but tenant density remains low"
+Florida,Statewide Average,1790,3390,"Coastal permitting, population density, and hurricane code requirements impact pricing"
+Florida,Jacksonville,2120,3870,Broad city coverage area with demand for both rooftop and suburban macro towers
+Florida,Miami,2480,4310,Rooftop zoning limits increase lease value in urban districts
+Florida,Tampa,2180,3780,Growing suburbs and redevelopment zones create higher lease competition
+Florida,Orlando,2160,3690,Tourism corridor drives data congestion and microcell expansion
+Florida,St. Petersburg,2090,3540,Limited tower space on historic structures increases rental value
+Florida,Rural Florida,740,1330,Swampland access and limited backhaul options affect tower placement and price
+Georgia,Statewide Average,1680,3140,Urban buildout and rural density gaps make coverage planning complex
+Georgia,Atlanta,2360,4380,Rooftop leasing dominates inner metro; competition inflates rents
+Georgia,Augusta,1810,3350,Defense and medical corridor installs draw above-market terms
+Georgia,Columbus,1740,3210,Suburban growth attracts full macro builds with co-location clauses
+Georgia,Macon,1690,3110,Infrastructure overlays influence fiber access and lease prioritization
+Georgia,Savannah,1830,3380,"Coastal tower builds face design constraints, boosting negotiation leverage"
+Georgia,Rural Georgia,700,1280,Timber and agricultural zoning permit tower placement but with lower multi-carrier appeal
+Hawaii,Statewide Average,1960,3770,Island density and limited build zones make leases highly competitive
+Hawaii,Honolulu,2540,4810,High-rise rooftops in Waikiki and downtown fetch premium lease rates
+Hawaii,Hilo,1820,3460,Volcanic topography complicates signal spread and power backup planning
+Hawaii,Kailua,1880,3570,Residential preservation ordinances limit tower options
+Hawaii,Kāneʻohe,1900,3610,Military and university proximity influence high-value placement
+Hawaii,Pearl City,2000,3800,Limited flat land for towers increases rooftop lease frequency
+Hawaii,Rural Hawaii,810,1490,Remote access and island infrastructure make sites cost-intensive but long-term
+Idaho,Statewide Average,1430,2670,Expanding tech hubs and open land encourage new builds
+Idaho,Boise,1960,3570,Tech growth drives demand for high-bandwidth infrastructure
+Idaho,Meridian,1830,3330,Suburban mix drives flexible tower deployment terms
+Idaho,Nampa,1760,3200,Competitive leases as carriers push deeper into residential zones
+Idaho,Idaho Falls,1690,3080,Proximity to national labs and federal sites influences security requirements
+Idaho,Pocatello,1650,3010,Regional transport hubs raise co-location value
+Idaho,Rural Idaho,640,1180,"Mountains and forested areas limit signal spread, requiring more towers per carrier"
+Illinois,Statewide Average,1580,2990,Dense metro coverage and flat rural landscapes create wide leasing variance
+Illinois,Chicago,2610,4950,Rooftop and water tower installs dominate due to zoning limitations
+Illinois,Aurora,1870,3550,Expanding suburbs increase small cell and rooftop leasing
+Illinois,Naperville,1890,3580,Tech corridors draw high-bandwidth carrier interest
+Illinois,Joliet,1740,3310,Commercial rail access supports long-term carrier use
+Illinois,Rockford,1670,3180,Industrial heritage zones reused for new wireless infrastructure
+Illinois,Rural Illinois,640,1180,Flat farmland allows broad signal spread but low tenant density
+Indiana,Statewide Average,1480,2820,Manufacturing and logistics zones drive co-location demand
+Indiana,Indianapolis,2010,3820,"Dense urban coverage includes rooftop, utility pole, and stealth builds"
+Indiana,Fort Wayne,1730,3280,Expansion toward suburbs creates higher lease premiums
+Indiana,Evansville,1610,3050,River basin and downtown renewals increase rooftop utilization
+Indiana,South Bend,1670,3140,University and healthcare districts boost data demand
+Indiana,Carmel,1750,3300,Affluent zoning encourages hidden installs with high rents
+Indiana,Rural Indiana,610,1100,Sparse population slows multi-carrier development
+Iowa,Statewide Average,1210,2360,Broad agricultural use impacts coverage focus and tower size
+Iowa,Des Moines,1580,3020,Government and corporate data demand raise downtown lease values
+Iowa,Cedar Rapids,1490,2830,Industrial sprawl along the Cedar River corridor affects pricing
+Iowa,Davenport,1420,2700,Mississippi River towers command premium for cross-border access
+Iowa,Sioux City,1370,2620,Regional gateway to western Iowa encourages high-capacity towers
+Iowa,Iowa City,1400,2680,University-driven data demand increases mid-market rooftop value
+Iowa,Rural Iowa,590,1080,High cornfield saturation limits fiber; tower access roads are key
+Kansas,Statewide Average,1320,2410,"Flat terrain supports wide-area coverage, increasing rural relevance"
+Kansas,Wichita,1700,3080,Tower visibility and fiber corridor overlap improve negotiation leverage
+Kansas,Overland Park,1550,2780,High-density zoning near tech parks supports rooftop premiums
+Kansas,Kansas City (KS),1690,3000,Multi-market overlap with Missouri boosts carrier interest
+Kansas,Olathe,1480,2640,Suburban sprawl supports steady tower deployment
+Kansas,Topeka,1400,2510,Government infrastructure hubs attract higher-value anchor leases
+Kansas,Rural Kansas,630,1130,Sparse density offsets tower counts; limited co-location opportunity
+Kentucky,Statewide Average,1190,2260,Rolling topography supports elevation-based tower placement
+Kentucky,Louisville,1670,3090,Dense commercial corridors attract multiple tenants per tower
+Kentucky,Lexington,1570,2900,Zoning overlays in equestrian districts require site stealthing
+Kentucky,Bowling Green,1430,2640,Auto industry and logistics zones increase tenant urgency
+Kentucky,Owensboro,1290,2470,Small metro feel with fiber access raises site appeal
+Kentucky,Covington,1360,2520,Ohio River adjacency opens options for high-capacity builds
+Kentucky,Rural Kentucky,610,1070,Regional isolation offsets lease value but attracts long-term tenancy
+Louisiana,Statewide Average,1420,2690,Floodplain zones and hurricane coding raise tower cost but lease value
+Louisiana,New Orleans,2010,3800,Rooftop preference driven by flood risk and historic restrictions
+Louisiana,Baton Rouge,1790,3390,Government proximity and weatherproofing raise lease negotiations
+Louisiana,Shreveport,1610,3050,River logistics and older infrastructure push ground lease use
+Louisiana,Lafayette,1660,3130,Suburban growth attracts long-term carrier deals
+Louisiana,Lake Charles,1620,3060,Petrochemical districts increase uptime and redundancy requirements
+Louisiana,Rural Louisiana,580,1090,Wetland and zoning limits restrict tower placement flexibility
+Maine,Statewide Average,1370,2570,Harsh winters and forest coverage increase tower hardening costs
+Maine,Portland,1890,3460,Rooftop installs favored due to strict historic district rules
+Maine,Lewiston,1670,3070,Converted commercial lots often house new installations
+Maine,Bangor,1630,2980,"Airport proximity requires FAA clearance, narrowing build zones"
+Maine,South Portland,1740,3170,Retail-heavy corridors demand reliable 5G coverage
+Maine,Auburn,1590,2890,Leasing agencies push for long-term rooftop installs
+Maine,Rural Maine,600,1110,Wide geographic gaps between viable sites reduce leasing options
+Maryland,Statewide Average,1510,2920,Dense infrastructure and federal agencies influence site selection
+Maryland,Baltimore,2060,3900,Urban zoning favors stealth rooftop installs with higher premiums
+Maryland,Frederick,1740,3280,Proximity to D.C. boosts lease demand for redundancy builds
+Maryland,Gaithersburg,1850,3480,Tech corridor increases multi-carrier interest in sites
+Maryland,Rockville,1880,3510,Dense suburban zones drive construction of rooftop sites
+Maryland,Bethesda,2020,3850,Affluent areas require aesthetically focused installations
+Maryland,Rural Maryland,680,1180,Zoned rural areas rely on utility pole and slim macro towers
+Massachusetts,Statewide Average,1800,3400,Zoning delays and preservation overlays impact lease timing and rent potential
+Massachusetts,Boston,2570,4810,Rooftop leases dominate due to tower height restrictions in metro core
+Massachusetts,Worcester,1980,3700,Urban redevelopment zones open up new co-location opportunities
+Massachusetts,Springfield,1870,3520,Dense housing encourages microcells and rooftop expansion
+Massachusetts,Cambridge,2230,4200,Tech and education corridor leads to high fiber-based demand
+Massachusetts,Lowell,1940,3660,Cross-market competition with NH drives rental value upward
+Massachusetts,Rural Massachusetts,720,1320,Zoning restrictions soften due to broadband equity grants
+Michigan,Statewide Average,1510,2830,Heavy winter weather adds complexity to rural installations
+Michigan,Detroit,2120,3980,Dense traffic corridors create high-value macrocell locations
+Michigan,Grand Rapids,1850,3380,Industrial/office mixed zones improve site access and leasing options
+Michigan,Warren,1790,3270,Aging infrastructure opens avenues for high-bandwidth leasing
+Michigan,Sterling Heights,1820,3310,Popular residential areas create rooftop lease competition
+Michigan,Ann Arbor,1930,3520,Major academic centers increase carrier load demand
+Michigan,Rural Michigan,620,1140,Wooded zones require more tower height and higher upfront costs
+Minnesota,Statewide Average,1530,2910,Frozen ground conditions and permit seasonality affect tower construction timelines
+Minnesota,Minneapolis,2150,4060,Urban density and tech sector demand increase rooftop and stealth site premiums
+Minnesota,Saint Paul,1940,3670,Government zoning accelerates lease approvals but limits tower height
+Minnesota,Rochester,1810,3440,Healthcare tech expansion spurs high-bandwidth lease requirements
+Minnesota,Duluth,1720,3260,Lakeside builds require wind-rated structures and signal redundancy
+Minnesota,Bloomington,1870,3530,Airport proximity enforces FAA constraints but boosts network capacity needs
+Minnesota,Rural Minnesota,610,1140,"Harsh winters limit year-round installation, extending lease cycles"
+Mississippi,Statewide Average,1160,2240,Legacy utility infrastructure limits co-location options in older districts
+Mississippi,Jackson,1340,2650,Urban sprawl drives demand but stretches fiber infrastructure availability
+Mississippi,Gulfport,1230,2460,Hurricane zones require above-code tower anchoring and hardened shelters
+Mississippi,Southaven,1150,2390,Metro Memphis influence increases cross-border competition for lease space
+Mississippi,Hattiesburg,1080,2250,Historic preservation overlays delay permitting timelines
+Mississippi,Biloxi,1230,2440,Casino district regulations restrict rooftop carrier access
+Mississippi,Rural Mississippi,460,830,Low population density limits multi-carrier interest in lease sites
+Missouri,Statewide Average,1500,2850,Central Midwest geography supports competitive pricing for carrier access
+Missouri,Kansas City,2040,3870,Metro connectivity overlap with Kansas increases rooftop demand
+Missouri,St. Louis,1980,3740,Urban core and region-wide transportation corridors raise tower density
+Missouri,Springfield,1760,3230,Heartland logistics hubs boost co-location opportunities
+Missouri,Columbia,1670,3100,University-driven tech bandwidth creates competitive rooftop leasing
+Missouri,Independence,1590,3020,Suburban growth promotes long-term anchor tenant agreements
+Missouri,Rural Missouri,630,1110,Sparsely populated farmland encourages high-elevation towers with long leases
+Montana,Statewide Average,1380,2620,Rural stretches and mountain terrain reduce multi-carrier density
+Montana,Billings,1740,3210,Urban sprawl attracts rooftop leases and city-centric towers
+Montana,Missoula,1630,2980,University zones boost demand for data-heavy infrastructure
+Montana,Great Falls,1540,2820,High-elevation towers meet wide-area coverage needs
+Montana,Bozeman,1720,3140,Increasing population density and tech parks drive lease value
+Montana,Butte,1450,2690,Mining heritage areas now house data-redundant equipment
+Montana,Rural Montana,520,950,Sparse population and rugged landscapes extend installation timelines
+Nebraska,Statewide Average,1300,2420,Broad flatness supports long-range signals but limits density
+Nebraska,Omaha,1820,3350,Downtown development triggers microcell growth in high-use zones
+Nebraska,Lincoln,1720,3170,Strong public-private partnerships attract tower installations
+Nebraska,Bellevue,1590,2940,Military adjacency enforces strict compliance and security
+Nebraska,Grand Island,1440,2660,Suburban-commercial mix supports hybrid macro/microcell leasing
+Nebraska,Kearney,1410,2610,Agricultural logistics and rail increase fiber-linked tower value
+Nebraska,Rural Nebraska,580,1060,Lack of natural elevation requires costly infrastructure stacking
+Nevada,Statewide Average,1640,3050,Desert conditions require hardened infrastructure and backup power
+Nevada,Las Vegas,2430,4510,Rooftop leases on high-rises fetch maximum market rates
+Nevada,Henderson,2220,4100,Smart community development influences zoning and network design
+Nevada,Reno,1930,3560,Tech startups and low-rise builds drive strong 5G tower needs
+Nevada,North Las Vegas,2080,3850,Big-box districts offer lucrative ground leases for macro towers
+Nevada,Sparks,1820,3320,Suburban edge placement supports strong backhaul connectivity
+Nevada,Rural Nevada,690,1240,Limited highway infrastructure and low density reduce rent premiums
+New Hampshire,Statewide Average,1480,2710,Limited buildable land leads to zoning-based delays and steep premiums
+New Hampshire,Manchester,1890,3520,Densely populated town centers attract indoor installation demand
+New Hampshire,Nashua,1820,3370,Proximity to tech corridors raises network load projections
+New Hampshire,Concord,1740,3260,State functions and public infrastructure improve lease terms
+New Hampshire,Dover,1690,3120,High intermodal connectivity spurs data redundancy requirements
+New Hampshire,Rochester,1630,3010,Expanding local zoning increases tower footprint negotiations
+New Hampshire,Rural New Hampshire,650,1160,Hills and woodlands impede macro expansions but secure long-term investment
+New Jersey,Statewide Average,1780,3370,Dense infrastructure and limited ground space drive rooftop and disguised site value
+New Jersey,Newark,2460,4680,Metro NYC data demand intensifies carrier lease competition
+New Jersey,Jersey City,2350,4460,Rooftop zoning encourages smart antenna and microcell expansion
+New Jersey,Paterson,1920,3680,Redevelopment zones incentivize long-term carrier buildouts
+New Jersey,Elizabeth,2010,3870,Port logistics and transportation corridors boost tower ROI
+New Jersey,Edison,1990,3820,Proximity to major interstates fuels high-frequency installations
+New Jersey,Rural New Jersey,690,1270,Farmland preservation zones limit access to key build areas
+New Mexico,Statewide Average,1370,2600,"Rugged landscape increases need for hardened, high-capacity towers"
+New Mexico,Albuquerque,1970,3640,Urban sprawl combined with mesa topography boosts rooftop lease demand
+New Mexico,Las Cruces,1630,3020,Military proximity and high desert winds affect tower design needs
+New Mexico,Rio Rancho,1580,2920,Expanding suburbs drive demand for new macrocell coverage
+New Mexico,Santa Fe,1850,3410,"Historic overlays restrict tower height, increasing rooftop premium"
+New Mexico,Roswell,1510,2790,Government research facilities and airport proximity elevate pricing
+New Mexico,Rural New Mexico,610,1110,Soil composition and power grid limits affect tenant install timelines
+New York,Statewide Average,1890,3560,Dense urban restrictions contrast with expansive rural mountain zoning
+New York,New York City,2780,5230,Rooftop leases dominate; line-of-sight and carrier overlap elevate rates
+New York,Buffalo,1960,3690,Rust-belt redevelopment provides ideal utility corridors for expansion
+New York,Rochester,1880,3540,Higher education and R&D zones favor smart antenna deployments
+New York,Yonkers,2010,3800,Multi-unit housing increases co-location frequency on high-rises
+New York,Syracuse,1790,3360,Snowfall and height restrictions push carriers to seek stealth rooftop leases
+New York,Rural New York,710,1310,Adirondack and Catskill regions complicate tower zoning and logistics
+North Carolina,Statewide Average,1590,2990,Rapid suburban expansion challenges tower siting and capacity planning
+North Carolina,Charlotte,2180,4120,"New construction, tech migration, and zoning variances drive lease premiums"
+North Carolina,Raleigh,2070,3910,"Research Triangle builds support long-term, fiber-ready installations"
+North Carolina,Greensboro,1810,3440,Mixed commercial zoning simplifies permitting and lease approvals
+North Carolina,Durham,1930,3660,Rooftop-focused deployments offset protected green zones
+North Carolina,Winston-Salem,1850,3510,Legacy infrastructure attracts upgrades and co-location opportunities
+North Carolina,Rural North Carolina,630,1170,"Mountains and wetlands slow installs, increasing lease durations"
+North Dakota,Statewide Average,1240,2320,Agricultural dominance with limited tenant stacking in most areas
+North Dakota,Fargo,1740,3260,Commercial and rail shipping zones attract new tower development
+North Dakota,Bismarck,1670,3120,State capital location draws data redundancy investment
+North Dakota,Grand Forks,1570,2940,University and government presence creates niche fiber markets
+North Dakota,Minot,1490,2810,Air Force base adjacency requires additional spacing and security clearances
+North Dakota,West Fargo,1520,2860,Rapid suburban growth from Fargo spillover boosts tower need
+North Dakota,Rural North Dakota,510,950,Harsh winters and sparse population lower ROI for multi-tenant towers
+Ohio,Statewide Average,1560,2910,Urban congestion and gaps in broadband coverage drive strong pricing in populated counties
+Ohio,Cleveland,2220,3350,Aggressive 5G rollout spurs rooftop lease bidding in central districts
+Ohio,Columbus,2040,3080,Government and academic institutions attract multi-tenant tower interest
+Ohio,Cincinnati,1990,2920,Infrastructure overlap supports varied pricing based on elevation and zoning
+Ohio,Toledo,1430,2520,Industrial sites with highway proximity earn higher rents
+Ohio,Akron,1390,2900,High elevation points near downtown raise rental values for LTE upgrades
+Ohio,Rural Ohio,690,1260,Sparse rural clusters with highway or rail adjacency attract mid-tier rents
+Oklahoma,Statewide Average,1360,2560,Tornado-prone zones necessitate reinforced tower builds and drive longer lease terms
+Oklahoma,Oklahoma City,1940,3670,Wide metro spread allows for diverse rooftop and ground tower deployment
+Oklahoma,Tulsa,1870,3540,Suburban expansion supports multi-carrier demand and higher lease rates
+Oklahoma,Norman,1590,3010,University fiber footprint strengthens site utility for small cell arrays
+Oklahoma,Broken Arrow,1610,3050,Commercial corridor location draws wireless logistics and data needs
+Oklahoma,Lawton,1530,2910,Proximity to Fort Sill encourages redundancy-focused installations
+Oklahoma,Rural Oklahoma,560,1040,Wind loading requirements increase tenant infrastructure investment
+Oregon,Statewide Average,1620,3020,Terrain and strict zoning increase the value of approved sites
+Oregon,Portland,2250,4270,Rooftop saturation and tech demand drive premium lease rates
+Oregon,Salem,1870,3540,State operations and fiber grid allow high-density small cell rollout
+Oregon,Eugene,1780,3370,University and hospital zones push signal saturation initiatives
+Oregon,Gresham,1710,3230,"Metro reach extension attracts long-term, multi-carrier agreements"
+Oregon,Hillsboro,1930,3650,Silicon Forest growth supports advanced antenna arrays and low-latency demand
+Oregon,Rural Oregon,650,1200,Environmental overlays and timber rights slow tower permitting
+Pennsylvania,Statewide Average,1730,3220,Mixed industrial and historic overlays create urban-rural pricing contrasts
+Pennsylvania,Philadelphia,2480,4670,Rooftop congestion and security requirements create premium microcell leases
+Pennsylvania,Pittsburgh,2060,3880,Hillside topography necessitates additional signal coverage points
+Pennsylvania,Allentown,1910,3600,Lehigh Valley commercial corridor increases multi-tenant lease value
+Pennsylvania,Erie,1690,3190,Harsh lake-effect weather impacts tower maintenance and risk pricing
+Pennsylvania,Reading,1840,3470,Density and height limitations favor stealth rooftop deployments
+Pennsylvania,Rural Pennsylvania,670,1240,Appalachian terrain complicates installs but lengthens lease term security
+Rhode Island,Statewide Average,1690,3110,"Small state, but dense zoning boosts lease competition"
+Rhode Island,Providence,2180,4040,Rooftops and church steeples are top targets for carriers
+Rhode Island,Cranston,1890,3520,Older buildings with line-of-sight challenges earn height premiums
+Rhode Island,Warwick,1870,3470,Logistics and shipping access raise value of macrocell locations
+Rhode Island,Pawtucket,1760,3260,Historic factory conversions house multiple small cells
+Rhode Island,East Providence,1790,3310,Coastal signal resilience demands additional engineering
+Rhode Island,Rural Rhode Island,690,1270,Limited expansion zones result in long-term lease negotiations
+South Carolina,Statewide Average,1520,2870,Coastal hurricane zones and inland suburban sprawl drive mixed lease trends
+South Carolina,Columbia,1970,3700,Government and education sectors push for smart antenna infrastructure
+South Carolina,Charleston,2080,3910,Historic zoning and rooftop restrictions elevate lease values in downtown
+South Carolina,North Charleston,1890,3530,Logistics and port operations drive data-hungry installations
+South Carolina,Mount Pleasant,1740,3260,High-growth residential areas increase rooftop microcell leases
+South Carolina,Rock Hill,1670,3130,Proximity to Charlotte metro influences higher rent expectations
+South Carolina,Rural South Carolina,620,1140,Forestry and wetlands add complexity to tower site approvals
+South Dakota,Statewide Average,1240,2330,Flat plains and agricultural dominance affect network ROI modeling
+South Dakota,Sioux Falls,1710,3220,Rapid population growth invites 5G expansion and higher lease competition
+South Dakota,Rapid City,1580,2970,Proximity to Black Hills National Forest limits tower placements
+South Dakota,Aberdeen,1430,2690,University and healthcare growth support small cell interest
+South Dakota,Brookings,1390,2610,Student population and open layouts favor wide signal range
+South Dakota,Watertown,1470,2740,"Mid-level commercial zones offer stable, long-term leasing options"
+South Dakota,Rural South Dakota,520,960,Harsh winters and sparse tenant base lower co-location viability
+Tennessee,Statewide Average,1570,2970,Mountainous terrain and rapid urban development create wide rental variability
+Tennessee,Nashville,2230,4200,Explosive city growth and rooftop scarcity create fierce lease bidding
+Tennessee,Memphis,2060,3870,Logistics infrastructure and downtown zoning drive tower demand
+Tennessee,Knoxville,1790,3360,Limited downtown space favors rooftop installs with premium pricing
+Tennessee,Chattanooga,1870,3510,Tech-forward citywide broadband supports microcell leasing growth
+Tennessee,Clarksville,1720,3220,Military adjacency and housing expansion raise fiber-fed site appeal
+Tennessee,Rural Tennessee,630,1180,Smoky Mountain zoning delays tower approvals but raises long-term lease value
+Texas,Statewide Average,1730,3250,Statewide 5G investment and sprawl contribute to aggressive lease growth
+Texas,Houston,2480,4680,High-rise saturation and flood zone constraints increase rooftop premiums
+Texas,San Antonio,2180,4100,Military and tourism zones boost co-location density
+Texas,Dallas,2560,4820,Metroplex market demands multi-network redundancy and broad coverage
+Texas,Austin,2420,4560,Tech corridor growth supports small cell leases and innovation deployment
+Texas,Fort Worth,2270,4270,Westward growth corridor leads to new tower builds in suburban zones
+Texas,Rural Texas,710,1340,"Oil, wind, and ranch land provide value but limit co-locator opportunities"
+Utah,Statewide Average,1590,2980,High-altitude zoning and rapid metro growth define site economics
+Utah,Salt Lake City,2180,4080,Downtown fiber grid and mountain interference shape lease locations
+Utah,West Valley City,1940,3640,Diverse demographics and highway proximity drive high usage
+Utah,Provo,1790,3360,Education-driven bandwidth needs raise small cell adoption
+Utah,West Jordan,1870,3520,Suburban tech developments push edge deployment strategies
+Utah,Orem,1740,3270,Rooftop leases on multifamily housing trend upward
+Utah,Rural Utah,640,1180,"Rugged terrain limits builds, but long-term leases offer reliability"
+Vermont,Statewide Average,1230,2380,"Mountain terrain limits line-of-sight, increasing the value of each install"
+Vermont,Burlington,1720,3180,Rooftop preference due to building height advantage and dense zoning
+Vermont,South Burlington,1680,3090,"Airport zoning requires FAA compliance, limiting new towers"
+Vermont,Rutland,1480,2730,Older industrial zones offer space for co-location but with aging infrastructure
+Vermont,Barre,1430,2640,Small government footprint with available land encourages longer lease terms
+Vermont,Montpelier,1510,2790,Government-related redundancy needs increase signal coverage demands
+Vermont,Rural Vermont,590,1080,Forest and ice loading influence tower placement cost
+Virginia,Statewide Average,1720,3220,Federal oversight and colonial preservation zones impact tower flexibility
+Virginia,Virginia Beach,2260,4230,Coastline exposure and military presence enhance value and security focus
+Virginia,Norfolk,2080,3910,Port and naval operations support high-redundancy leases
+Virginia,Chesapeake,1920,3670,Rapid suburban growth fuels new tower applications
+Virginia,Richmond,2010,3840,Capitol location increases co-location incentives on government rooftops
+Virginia,Arlington,2430,4560,Federal buildings and low-rise zones elevate rooftop lease rates
+Virginia,Rural Virginia,670,1240,Blue Ridge Mountain zoning and forest overlays slow installations
+Washington,Statewide Average,1780,3300,Wet climate and topography variation create install and access complexity
+Washington,Seattle,2540,4750,Rooftop microcells and zoning overlays push premium lease pricing
+Washington,Spokane,1880,3520,Mixed-use corridors welcome multi-carrier builds
+Washington,Tacoma,1950,3650,Industrial development promotes subtenancy on large towers
+Washington,Vancouver,2010,3780,Portland metro spillover supports strong leasing competition
+Washington,Bellevue,2360,4430,Tech HQ locations increase small cell and in-building site value
+Washington,Rural Washington,690,1280,Forested zones complicate fiber access and drive longer lease terms
+West Virginia,Statewide Average,1280,2460,Mountainous terrain adds unique tower spacing challenges
+West Virginia,Charleston,1730,3320,Governmental capital region supports longer lease terms and redundancy planning
+West Virginia,Huntington,1620,3100,Bridge corridors and flood zones influence rooftop vs ground use
+West Virginia,Morgantown,1680,3220,Educational growth increases small cell rollout needs
+West Virginia,Parkersburg,1500,2870,Border city drives tower co-use with out-of-state carriers
+West Virginia,Wheeling,1470,2810,River basin topography limits frequency reuse and increases demand
+West Virginia,Rural West Virginia,600,1100,Power grid reliability affects tower uptime and backup needs
+Wisconsin,Statewide Average,1420,2670,Mixed-use development areas see increasing co-location strategies
+Wisconsin,Milwaukee,2050,3880,Industrial blocks being repurposed create tower redevelopment opportunities
+Wisconsin,Madison,1870,3460,Academic and government networks attract fast-approval installations
+Wisconsin,Green Bay,1660,3090,Weather hardening and lake effect impact tower engineering
+Wisconsin,Kenosha,1580,2940,Interstate corridor between Chicago and Milwaukee draws fiber-linked towers
+Wisconsin,Racine,1600,2970,High urban density supports small cell and rooftop expansions
+Wisconsin,Rural Wisconsin,620,1140,"Low-density dairy zones demand fewer towers, longer leases"
+Wyoming,Statewide Average,1210,2340,"Sparse population density reduces lease frequency, but increases tower ROI per tenant"
+Wyoming,Cheyenne,1650,3170,Capital access and open build zones reduce engineering conflicts
+Wyoming,Casper,1580,3040,Cold weather zones require hardened towers and elevated cost recovery
+Wyoming,Laramie,1470,2820,University presence drives year-round data needs
+Wyoming,Gillette,1430,2730,Energy production centers support site longevity and higher fiber investment
+Wyoming,Rock Springs,1440,2750,Key transport routes drive frequency overlap and co-location interest
+Wyoming,Rural Wyoming,570,1070,Extreme temperatures require custom-built infrastructure and long-term amortization
